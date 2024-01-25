@@ -4,6 +4,7 @@
 
 <img src="jla.webp">
 
+![](https://upload.wikimedia.org/wikipedia/en/f/f2/JLA-AlexRoss.jpg)
 ## Introduction
 
 As we saw in unit 1, not all API's are created equally. Before we begin our group full stack project tomorrow, lets take some practice in building up an API from scratch using Mongo, Mongoose, and Express.
