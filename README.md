@@ -2,7 +2,6 @@
 
 # Heroes and Villians Express API
 
-<img src="jla.webp">
 
 ![](https://upload.wikimedia.org/wikipedia/en/f/f2/JLA-AlexRoss.jpg)
 ## Introduction
